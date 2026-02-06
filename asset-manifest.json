@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kiruthiga0306/kiruthiga0306weather-app-react/static/css/main.ab1ca902.css",
+    "main.js": "/kiruthiga0306/kiruthiga0306weather-app-react/static/js/main.aa5c9624.js",
+    "static/js/453.d2ed222f.chunk.js": "/kiruthiga0306/kiruthiga0306weather-app-react/static/js/453.d2ed222f.chunk.js",
+    "index.html": "/kiruthiga0306/kiruthiga0306weather-app-react/index.html",
+    "main.ab1ca902.css.map": "/kiruthiga0306/kiruthiga0306weather-app-react/static/css/main.ab1ca902.css.map",
+    "main.aa5c9624.js.map": "/kiruthiga0306/kiruthiga0306weather-app-react/static/js/main.aa5c9624.js.map",
+    "453.d2ed222f.chunk.js.map": "/kiruthiga0306/kiruthiga0306weather-app-react/static/js/453.d2ed222f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab1ca902.css",
+    "static/js/main.aa5c9624.js"
+  ]
+}
